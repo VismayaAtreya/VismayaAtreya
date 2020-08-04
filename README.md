@@ -6,20 +6,21 @@
 **VismayaAtreya/VismayaAtreya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  
 I'm VismayaAtreya and I create Python code, attatch a few files and add them here, as GitHub repositories.
 
 ## What am I working on?
 
-You can see what [I have done, what I am working on, and what I need help with](https://github.com/VismayaAtreya/VismayaAtreya/projects/1) by clicking here.
+You can see whatI have done, what I am working on, and what I need help with by clicking [here](https://github.com/VismayaAtreya/VismayaAtreya/projects/1).
 
+## Help me out!
+
+If you have any suggestions or want to help me out with my questions, post them [here](https://github.com/VismayaAtreya/VismayaAtreya/issues)
+
+## Check out my repositories [here](https://github.com/VismayaAtreya)
+
+## Contact me at:
+
+Instagram: [vismodo](https://www.instagram.com/vismodo/)
+
+![image](https://github.com/VismayaAtreya/VismayaAtreya/blob/master/Instagram%20Nametag.png)
