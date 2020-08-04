@@ -14,7 +14,7 @@ You can see whatI have done, what I am working on, and what I need help with by 
 
 If you have any suggestions or want to help me out with my questions, post them [here](https://github.com/VismayaAtreya/VismayaAtreya/issues)
 
-## Check out my repositories [here](https://github.com/VismayaAtreya)
+## Check out my repositories [here](https://github.com/VismayaAtreya?tab=repositories)
 
 ## Contact me at:
 
