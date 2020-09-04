@@ -16,7 +16,7 @@ If you have any suggestions or want to help me out with my questions, post them 
 
 ## Check out my repositories [here](https://github.com/VismayaAtreya?tab=repositories)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AiVWLfvDKWg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## I just started a YouTube course on Python and HTML! Check it out [here](https://www.youtube.com/channel/UCabDaT8EMoGGkxjnXTuPx3Q)!
 
 ## Contact me at:
 
