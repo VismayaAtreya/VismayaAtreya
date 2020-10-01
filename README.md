@@ -15,4 +15,4 @@ I'm VismayaAtreya, I am 12 years old, and I create Python code, attatch a few fi
 Instagram: [vismodo](https://www.instagram.com/vismodo/)
 
 
-<img src="https://github.com/vismodo/vismodo/blob/master/Instagram%20Nametag.png" width=1000>
+<img src="https://github.com/vismodo/vismodo/blob/master/Instagram%20Nametag.png" width=500>
