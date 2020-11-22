@@ -8,7 +8,7 @@ I'm vismodo, and I create Python code, attatch a few files and add them here, as
 ## Here is my [Website](https://vismodo.github.io/Website/Homepage/index.html)
 ## Check out my repositories [here](https://github.com/vismodo?tab=repositories)
 
-## I just started a YouTube course on Python and HTML! Check it out [here](https://www.youtube.com/channel/UCabDaT8EMoGGkxjnXTuPx3Q)!
+## I have a YouTube channel! Check it out [here](https://www.youtube.com/channel/UCabDaT8EMoGGkxjnXTuPx3Q)!
 
 ## Contact me at:
 
